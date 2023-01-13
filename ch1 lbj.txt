@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title> Lebrons journey </title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head></body>
+<body>
+  <h1> The Kings Journey 
+  <h2>Chapter 1</h2>
+  <p>
+      <img src="img/young lebron 1.jpeg" width= "450"> 
+ </p>
+  <p>
+   
+   LeBron James, in full LeBron Raymone James aka King James,was born December 30, 1984, Akron, Ohio.  American professional basketball player who is widely considered one of the greatest all-around players of all time and who won National Basketball Association NBA championships with the Miami Heat 2012 and 2013, the Cleveland Cavaliers 2016, and the Los Angeles Lakers 2020. Lebron was a childhood prodigy in high school and was the center of attention statewide. His journey is inspiriational coming from a hard background. Lebron grew up up most of his life in the projects and was poor. His only way out was basketball.
+ </p>
+
+<a href="index.html">Previous</a>
+<a href="ch2 lbj">Next</a>
+
+  </p>  
+    

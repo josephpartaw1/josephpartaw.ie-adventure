@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title> Lebrons journey </title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head></body>
+<body>
+  <h1> The Kings Journey 
+  <h2>Chapter 2</h2>
+<p>
+  <img src="img/lbj ch2.webp" width= "450">
+</p>
+<p>
+
+Lebron james became a national media sensation in his junior year after appearing on the cover of Sports Illustrated, where he was billed by the magazine as “The Chosen One.” James was the consensus national high-school player of the year in his senior season, and he was selected by the Cleveland Cavaliers with the first overall selection of the 2003 NBA draft.This would be a dream for james and a moment he would cherish. Although it seemed like a dream come true there was alot of doubt for a kid coming out of high school getting ready to play for the nba.There was comments saying he is not ready and wont live up to the hype. 
+
+
+
+<a href="ch1 lbj">Previous</a>
+<a href="ch3 lbj">Next</a>
+
+  </p>  

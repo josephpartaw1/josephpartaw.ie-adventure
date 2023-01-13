@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title> Lebrons journey </title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head></body>
+<body>
+  <h1> The Kings Journey 
+  <h2>Chapter 4</h2> 
+<p>
+<img src="img/lbj ch4.avif" width= "450">
+</p>
+<p>
+
+Lebron james was proving the haters wrong winning Most valuable player trophies and becoming the greatest to ever play. There was one problem in order to be the best you have to win it all. Lebron over the years had struggle to take his team to the finals aka championship. As he played he would win to get to the finals but would lose in the finals. that all changed when he went to the Miami heat to win two times  finals trophy and be the most valuable player on that championship team. 
+
+
+<a href="ch3 lbj">Previous</a>
+<a href="lbj end">Next</a>
+
+  </p>  

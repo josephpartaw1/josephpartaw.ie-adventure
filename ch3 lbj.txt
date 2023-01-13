@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title> Lebrons journey </title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head></body>
+<body>
+  <h1> The Kings Journey 
+  <h2>Chapter 3</h2> 
+<p>
+    <img src="img/lbj ch3.png" width= "450">
+</p>
+<p>
+
+
+On October 29, 2003, LeBron James debuted in his first NBA game for the Cleveland Cavaliers in California’s state capital at the age of 18. Against the Western Conference contenders of Mike Bibby, Peja Stojakovic, Vlade Divac, Doug Christie, and others, James scored 25 points with nine assists in 42 minutes.Although the Cavaliers lost 92-106, everyone could see the makings of a superstar from the second he stepped on the court. His ability to live up to the hype and deliver even more, is truly astonishing and we will probably never see another player of his caliber ever again.Lebron was proving them wrong when lebron won rookie of the year, there was was something special about to happen for years to come.
+
+
+
+<a href="ch2 lbj">Previous</a>
+<a href="ch4 lbj">Next</a>
+
+  </p>  

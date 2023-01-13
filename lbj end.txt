@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title> Lebrons journey </title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head></body>
+<body>
+  <h1> The End of the Journey 
+  <h2></h2> 
+<p>
+  <img src="img/lbj end.webp" width= "450">
+</p>
+<p>
+Now we are heading to the final curtain of one of the best generational talents we have witnessed. Lebron is still playing which is incredible and unheard of for a 38 year old it is an honor to have watched Lebron james journey through basketball. As we wait for him to break the all time scoring record, James carrer would be legendary and will be one we won't see for a very long time.
+</p>
+
+<h2>The End</h2> 
+
